@@ -10,6 +10,7 @@
 <p align="left">Database: IBM DB2 Cloud <br> Programming: Java, JavaScript <br> WebDisign <br> Linux: Proficient in navigating and managing tasks on Linux-based systems. </p>
 
 <h3 align="left">Certification:</h3>
+<a href="https://courses.cognitiveclass.ai/certificates/229857f7dfec4c0d81494646fbb8d064">NoSQL and DBaaS 101</a> <br>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5B41D00A203E27976FAB8D6FBBAA240670980E1AE775687C093ADCC46B822A93&fbclid=IwAR2YTxuE9WFREEuuzyFVMKIlVjVPP87ZDDGim-18yKIf0Y_ynjkzo5xNCw8="blank">Oracle Cloud Infrastructure 2023 Certified Foundations Associate</a> <br>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C39A0017B49E14562A1B189B1EC28B576CE30528C2B37BEF3F6AE46ED9BAAB31&fbclid=IwAR3bHif5QmBVB3x6QdhBhLTNWkAuF1wNacJyqijGXr-chgIZPk3z96EvFaQ"blank">Oracle Cloud Data Management 2023 Certified Foundations Associate</a> <br>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=87A84661DABAC4CA4FC7433F831136A46387DC28A6FC9CDF56CD72D74E87576F&fbclid=IwAR1W5RcBApi1uC9dqiFZ7DhJgpbMGrsdjnLyVtshi2UPrNbEpJGaBdUKppY"blank">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a> <br>
