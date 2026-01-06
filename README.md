@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elidavid04&label=Profile%20views&color=0e75b6&style=flat" alt="elidavid04" /> </p>
 
 <h3 align="left">About me:</h3>
-<p align="left"> Whether it is a work-related event or not, I am always on time. I am an enthusiastic coder and have experience with database administration. I am dependable, adaptable, and have impeccable time management abilities. My intriguing IT journey began with the Information and Communication Technologies program, and it hasn't stopped after.</p>
+<p align="left"> I am a cybersecurity learner focused on Blue Team and SOC fundamentals. This portfolio contains hands-on projects, labs, and write-ups demonstrating my skills in network security, log analysis, and threat detection..</p>
 <h3 align="left">Education:</h3>
 <p align="left">BS Information Technology <br> New Era University <br> 2021 - Present</p>
 
